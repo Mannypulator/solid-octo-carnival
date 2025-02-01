@@ -1,7 +1,7 @@
 # HNG12 Stage 0 Backend API
 
 ## Overview
-This is a simplempublic API that returns my information
+This is a simple public API that returns my information
 
 ## Tech Stack
 - **C# .NET 8**
@@ -25,5 +25,6 @@ This is a simplempublic API that returns my information
 ## How To Run Locally
 ```bash
     git clone https://github.com/mannypulator/solid-octo-carnival.git
-    cd 
+    cd HNG12.API
+    dotnet run watch
 ```
