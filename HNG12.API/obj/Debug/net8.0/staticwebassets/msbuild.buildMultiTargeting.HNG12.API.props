@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/HNG12.API.props" />
+</Project>
